@@ -1,6 +1,3 @@
-Link to Story on Tableau Public:
-https://public.tableau.com/app/profile/ken1695/viz/CitiBike_16673151661300/Story1?publish=yes
-
 # CitiBike Challenge
 
 In this assignment I took on a role as Jersey City Citi Bike analyst. I put together a presentation for city officials looking to publicize and improve the city program. 
