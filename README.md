@@ -51,3 +51,17 @@ Of our lowest volume stations, three stand out. JC097, JC107, and JCSYS. There a
 Perhaps partnering with business in the area to offer discounts would imporve ridership in these areas? 
 Perhaps relocating them to a different street, or removing them all together would make sense. Bringing the bikes to more usable area is also worth discussing. Further examination into the problem should be considered. 
 
+## Dashboards
+
+https://public.tableau.com/app/profile/ken1695/viz/CitiBike-DashboardTop10/Dashboard6?publish=yes
+
+https://public.tableau.com/app/profile/ken1695/viz/CitiBike-DashboardBottom10/Dashboard7?publish=yes
+
+https://public.tableau.com/app/profile/ken1695/viz/CitiBike-DashboardCasualMember/Dashboard2?publish=yes
+
+https://public.tableau.com/app/profile/ken1695/viz/CitiBike-DashboardTop10Stations/Dashboard4?publish=yes
+
+https://public.tableau.com/app/profile/ken1695/viz/CitiBike-DashboardTotalStations/Dashboard9?publish=yes
+
+https://public.tableau.com/app/profile/ken1695/viz/CitiBike-DashboardBottom10Stations/Dashboard5?publish=yes
+
