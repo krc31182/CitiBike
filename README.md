@@ -33,7 +33,7 @@ My goal is to provide the city with information that can be used to make decisio
 ## Analysis
 
 Link to my story on tableau Public:
-https://public.tableau.com/app/profile/ken1695/viz/CitiBike_16673151661300/Story1?publish=yes
+https://public.tableau.com/app/profile/ken1695/viz/CitiBikeStory_16673197932540/Story1?publish=yes
 
 
 The summer of 2022 showed an increase in ridership for each month (June-Sept) from 2021 numbers. With an increase of 31% in June, 24% in July, 18% in August, and 8% in September. 
