@@ -6,7 +6,7 @@ I used Tableau to compile all of the data from the summer of 2022 to get a bette
 
 The data consists of all the times citizens used Citi bike from June, July, August, and September of 2022.
 
-My goal is to provide the city with information that can be used to make descisions on the program moving forward.
+My goal is to provide the city with information that can be used to make decisions on the program moving forward.
 
 
 
