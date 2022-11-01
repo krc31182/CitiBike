@@ -47,5 +47,7 @@ Our lowest performing stations are all west of the New Jersey Turnpike.
 In total we had 266,427 rides taken by members and 164,852 by non membership riders. The membership program is attracting a high number of riders through the week. At our busiest stations the casual rider usage spikes significantly on the weekends. Our membership riders make up the majority of riders through the weekdays. The number of rides being taken through the weekdays is a positive sign that our membership program is working.
 
 
-Of our lowest volume stations, three stand out. JC097, JC107, and JCSYS. There are very few rides being taken at these locations. Perhaps due to the area they are in. Being outside of the trunpike, they do not have any tourism destinations close. They also aren't being used by the local community to travel. Perhaps relocating them to a different street, or removing them all together would make sense. Bringing the bikes to more usable area is also worth discussing. Further examination into the problem should be considered. 
+Of our lowest volume stations, three stand out. JC097, JC107, and JCSYS. There are very few rides being taken at these locations. Perhaps due to the area they are in. Being outside of the turnpike, they do not have any tourism destinations close. They also aren't being used by the local community to travel. 
+Perhaps partnering with business in the area to offer discounts would imporve ridership in these areas? 
+Perhaps relocating them to a different street, or removing them all together would make sense. Bringing the bikes to more usable area is also worth discussing. Further examination into the problem should be considered. 
 
