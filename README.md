@@ -1,12 +1,12 @@
 # CitiBike Challenge
 
-In this assignment I took on a role as Jersey City Citi Bike analyst. I put together a presentation for city officials looking to publicize and improve the city program. 
+In this assignment I took on the role of Jersey City Citi Bike analyst. A presentation has been put together for city officials that are looking to publicize and improve the city program. 
 
-I used Tableau to compile all of the data from the summer of 2022 to get a better understanding of how people are using the program. And untimately decide on ways to improve it. 
+I used Pandas and Tableau to compile data from the summer of 2022 to get a better understanding of how people are using the Citi Bike program.
 
-The data consists of all the times citizens used Citi bike from June, July, August, and September of 2022.
+The data consists of all the incidents where people used Citi bike in Jersey City from June, July, August, and September of 2022.
 
-My goal is to provide the city with information that can be used to make decisions on the program moving forward.
+My goal is to provide the city with information that can answer their questions and be used to make decisions on the program moving forward.
 
 
 
