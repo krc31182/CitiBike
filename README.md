@@ -1,6 +1,6 @@
 # CitiBike Challenge
 
-In this assignment I took on the role of Jersey City Citi Bike analyst. A presentation has been put together for city officials that are looking to publicize and improve the city program. 
+In this assignment I analyzed the Citi Bike usage in Jersey City, New Jersey. A presentation has been put together for city officials that are looking to publicize and improve the city program. 
 
 I used Pandas and Tableau to compile data from the summer of 2022 to get a better understanding of how people are using the Citi Bike program.
 
