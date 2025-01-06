@@ -1,55 +1,114 @@
-# CitiBike Challenge
+# CitiBike Usage Analysis - Jersey City, NJ (Summer 2022)
 
-In this assignment I analyzed the Citi Bike usage in Jersey City, New Jersey. A presentation has been put together for city officials that are looking to publicize and improve the city program. 
+This project analyzes CitiBike usage in Jersey City, New Jersey, during the summer of 2022. The goal is to provide actionable insights to city officials to help improve and publicize the CitiBike program. Leveraging **Pandas** for data analysis and **Tableau** for visualization, this project presents key findings to guide decision-making and drive program success.
 
-I used Pandas and Tableau to compile data from the summer of 2022 to get a better understanding of how people are using the Citi Bike program.
+---
 
-The data consists of all the incidents where people used Citi bike in Jersey City from June, July, August, and September of 2022.
+## **Objective**
 
-My goal is to provide the city with information that can answer their questions and be used to make decisions on the program moving forward.
+To analyze CitiBike data from June to September 2022 and answer key questions about the program’s performance, including:
+- Identifying top- and low-performing stations.
+- Assessing changes in ridership compared to summer 2021.
+- Evaluating program success for commuters and tourists.
+- Determining the feasibility of maintaining underperforming stations.
 
+By addressing these questions, this analysis aims to support data-driven decisions that enhance the program’s utility and growth.
 
+---
 
+## **FAQ**
 
-## FAQ
+1. **What are the top-performing stations, and why?**  
+2. **Which stations underperformed, and what might be the reasons?**  
+3. **How did summer 2022 compare to summer 2021 in terms of ridership?**  
+4. **Was the summer of 2022 successful, and is the program heading in the right direction?**  
+5. **Is the program effectively serving commuters who prefer biking over driving or other transit options?**  
+6. **Is the program attracting tourists and casual riders exploring the city?**  
+7. **Does maintaining all current stations align with program goals?**
 
-#### What are our top performing stations and why?
+---
 
+## **Analysis Overview**
 
-#### What are our worst performing stations and why?
+### **Ridership Growth**  
+The summer of 2022 showed a significant increase in ridership compared to 2021:
+- **June**: +31%  
+- **July**: +24%  
+- **August**: +18%  
+- **September**: +8%  
 
+**Total Ridership** (June–September):  
+- **2022**: 431,279 riders  
+- **2021**: 345,158 riders (+25% increase)
 
-#### How has this summer compared to the summer of 2021?
+This growth demonstrates the program's continued success in attracting both members and casual riders.
 
-#### Was this a successful summer and is the program heading in the right direction?
+---
 
-#### Is the program working for people who want to ride a bike to work rather than drive or take other forms of transportation?
+### **Station Performance**
 
-#### Are we seeing tourism and casual ridership to explore the city?
+#### **Top-Performing Stations**  
+The most frequently used stations are concentrated along the **waterfront areas**, which serve as hubs for businesses, attractions, and tourism. Notable locations include:  
+- **Hoboken Waterfront**  
+- **Pier A Park**  
+- **Historical Museum**  
+- **Stevens Institute of Technology**  
 
-#### Does it make sense to keep up the maintenance of all of our current stations?
+These high-performing stations indicate strong demand for biking services in areas with commercial and recreational significance.
 
+#### **Low-Performing Stations**  
+Stations west of the New Jersey Turnpike consistently underperformed, with minimal ridership. Three key stations stand out:  
+- **JC097**  
+- **JC107**  
+- **JCSYS**  
 
-## Analysis
+These stations lack proximity to tourist attractions and appear underutilized by the local community.
 
-Link to my story on tableau Public:
-https://public.tableau.com/app/profile/ken1695/viz/CitiBikeStory_16673197932540/Story1?publish=yes
+---
 
+### **Ridership Demographics**  
+- **Membership Riders**: 266,427 (62%)  
+  - High weekday usage indicates members are heavily utilizing the service for commuting.  
+- **Non-Membership Riders**: 164,852 (38%)  
+  - Spikes in casual ridership over weekends highlight the program’s appeal to tourists and leisure riders.
 
-The summer of 2022 showed an increase in ridership for each month (June-Sept) from 2021 numbers. With an increase of 31% in June, 24% in July, 18% in August, and 8% in September. 
-The total amount of riders for this period in 2022 was 431,279. In 2021 it was 345,158 for this same period. 
+---
 
+### **Key Recommendations**
 
-There are 72 total stations across Jersey City. With the busiest stations being primarily along the waterfront areas. This is a positive sign as the majority of businesses as well as attractions seem to be driving traffic and tourism to that area. There is high usage in areas of the Hoboken Waterfront, Pier A Park, Historical Museum, and Stevens Institue of Technology.  
-Investors and entrepreneurs should be ecouraged to invest in the area with a lot of potential along the New York skyline. 
-Our lowest performing stations are all west of the New Jersey Turnpike. 
+1. **Enhance Low-Performing Stations**:
+   - Partner with nearby businesses to offer rider discounts.
+   - Explore relocating or removing underutilized stations to increase efficiency.
 
-In total we had 266,427 rides taken by members and 164,852 by non membership riders. The membership program is attracting a high number of riders through the week.They make up the majority of riders during weekdays. At our busiest stations the casual rider usage spikes significantly on weekends. The number of rides being taken on weekdays is a positive sign that members are utilizing the service often for their commute.
+2. **Expand High-Performing Areas**:
+   - Invest in expanding stations along the waterfront to capitalize on growing demand.
+   - Encourage investors and entrepreneurs to develop commercial ventures in these thriving areas.
 
+3. **Targeted Marketing for Tourism and Commuting**:
+   - Promote the program’s convenience for daily commuters.
+   - Highlight tourist-friendly routes to attract casual riders.
 
-Of our lowest volume stations, three stand out. JC097, JC107, and JCSYS. There are very few rides being taken at these locations. Perhaps due to the area they are in. Being outside of the turnpike, they do not have any tourism destinations close. They also aren't being used by the local community to travel. 
-Perhaps partnering with business in the area to offer discounts would imporve ridership in these areas? 
-Perhaps relocating them to a different street, or removing them all together would make sense. Bringing the bikes to more usable area is also worth discussing. Further examination into the problem should be considered. 
+4. **Ongoing Maintenance and Evaluation**:
+   - Conduct regular performance reviews of all stations to identify trends.
+   - Optimize bike redistribution to ensure availability during peak hours.
+
+---
+
+## **Visual Insights**
+
+Explore the detailed analysis and visual storytelling on Tableau Public:  
+[**CitiBike Story - Summer 2022**](https://public.tableau.com/app/profile/ken1695/viz/CitiBikeStory_16673197932540/Story1?publish=yes)
+
+---
+
+## **Conclusion**
+
+The summer of 2022 marked a successful season for Jersey City’s CitiBike program, with increased ridership, strong commuter engagement, and tourism activity. However, strategic improvements to underperforming stations and an emphasis on expanding high-demand areas can further enhance the program's impact.
+
+This analysis serves as a foundation for city officials to make informed decisions and continue advancing the CitiBike initiative.
+
+---
+
 
 ## Dashboards
 
